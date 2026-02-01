@@ -1,1 +1,0 @@
-print("mechabot-core FIX2")
