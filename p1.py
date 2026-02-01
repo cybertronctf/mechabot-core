@@ -1,1 +1,1 @@
-print("mechabot-core INSERT")
+print("mechabot-core UPDATE")
