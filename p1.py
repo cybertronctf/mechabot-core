@@ -1,1 +1,1 @@
-print("mechabot-core UPDATE")
+print("mechabot-core FIX")
