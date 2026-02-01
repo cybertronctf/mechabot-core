@@ -1,0 +1,1 @@
+print("mechabot-core FINAL")
